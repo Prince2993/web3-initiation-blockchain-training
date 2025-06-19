@@ -1,3 +1,4 @@
+
 <!DOCTYPE html><html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -80,4 +81,8 @@
   <p>LinkedIn : <a href="https://www.linkedin.com/company/africaweb3hub" target="_blank">AfricaWeb3Hub</a></p>
 </section>
 
-  </main>
+  </main>  <footer>
+    <p>&copy; 2025 AfricaWeb3Hub. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
