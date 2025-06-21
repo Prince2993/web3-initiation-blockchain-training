@@ -33,9 +33,13 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 
 ## 🌍 Pourquoi ce projet ?
 
-- 🌐 120M+ de Congolais, dont une jeunesse avide de transformation numérique
-- 🛑 10M+ de personnes sans accès bancaire à l’Est de la RDC : **le Web3 est une solution alternative puissante**
-- 🇨🇩 Une diaspora dynamique prête à investir dans des solutions innovantes
+- 🌐 En 2025, plus de 90% des Africains francophones n'ont toujours pas accès à une éducation de qualité sur la blockchain, le Web3 et les cryptomonnaies. Malheureusement, la plupart découvrent ces technologies à travers des arnaques et systèmes frauduleux, créant une perception négative, surtout dans les zones non anglophones.
+
+AfricaWeb3Hub est né de cette urgence.
+
+Notre mission est simple :
+👉 Démocratiser l’accès au Web3 pour les jeunes, les femmes, les artistes, les étudiants et les développeurs africains francophones.
+👉 Construire une génération formée, informée et créative, capable de bâtir des solutions locales grâce à la blockchain.
 
 ---
 
@@ -67,6 +71,21 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 </html>
 --
 
+##🤝 Le rôle stratégique du partenariat avec Ethereum (ETH)
+
+Ethereum est aujourd’hui le socle de l’innovation Web3 :
+Smart contracts, Dapps, DAO, NFT, Layer 2... ce sont ces outils que nous voulons enseigner aux Africains.
+
+Un partenariat avec Ethereum serait une opportunité unique pour :
+
+faire des formations pratiques dans les universités
+
+organiser des événements communautaires
+
+traduire et adapter les ressources pour la langue française
+
+lancer des projets pilotes open source made in Africa
+
 
 <section id="partner">
   <h2>🤝 À la recherche de partenaires – Ethereum</h2>
@@ -75,6 +94,18 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
   - des ateliers ETH avancés<br>
   - un réseau de soutien au démarrage de projets DApps</p>
 </section>
+
+##🌐 En résumé
+
+AfricaWeb3Hub n’est pas juste un projet.
+C’est un mouvement éducatif panafricain pour :
+
+reconnecter l’Afrique francophone à l’économie numérique globale
+
+créer une culture Web3 positive et responsable
+
+amener Ethereum et la blockchain là où elles sont le plus nécessaires
+
 
 ## 🔗 Liens officiels
 
