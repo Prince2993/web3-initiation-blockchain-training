@@ -3,7 +3,6 @@
 Bienvenue dans le référentiel officiel d’AfricaWeb3Hub.  
 Notre mission est de démocratiser l’accès au Web3, à la blockchain, aux NFT et aux technologies décentralisées pour les jeunes de l’Afrique francophone.
 
----
 
 ## 🎯 Vision
 
@@ -13,7 +12,7 @@ Créer une génération de développeurs, artistes, entrepreneurs et penseurs af
 
 ## 🧩 Ce que nous faisons
 
-- 🔹 **Formations Présentielles & en Ligne** sur Ethereum, Solana, Aptos, Avalanche, ADA, etc.
+- 🔹 **Formations Présentielles & en Ligne** sur l'écosystème d'Ethereum, Solana, Aptos, Avalanche, ADA, etc.
 - 🔹 **Conférences, Hackathons & Ateliers** avec des artistes, développeurs, et leaders communautaires
 - 🔹 **Création d’outils open source** pour l’éducation Web3
 - 🔹 **Accompagnement de projets Web3 locaux et panafricains**
@@ -24,13 +23,10 @@ Créer une génération de développeurs, artistes, entrepreneurs et penseurs af
 ## 🛠️ Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (Solidity)
--
 - ✅ Aptos
 - ✅ Cardano (ADA)
 - ✅ Avalanche
 - ✅ IPFS, Metamask, NFT, DAO
-
----
 
 ## 🌍 Pourquoi ce projet ?
 
