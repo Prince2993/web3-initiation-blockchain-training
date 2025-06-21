@@ -57,10 +57,6 @@ Notre mission est simple :
   <p>Objectif : <strong>encourager leur leadership</strong> dans le Web3 et offrir des opportunités concrètes.</p>
 </section>
 
-<!DOCTYPE html>
-<html lang="fr">
-<head><meta charset="UTF-8"><title>AfricaWeb3Hub – Événements</title></head>
-<body>
 
   <h1>📅 Événements à Kinshasa (Octobre)</h1>
   <ul>
