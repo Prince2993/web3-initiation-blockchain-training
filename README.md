@@ -8,7 +8,10 @@ Notre mission est de démocratiser l’accès au Web3, à la blockchain, aux NFT
 
 Créer une génération de développeurs, artistes, entrepreneurs et penseurs africains capables de maîtriser et d’innover grâce aux technologies Web3 et blockchain.
 
--
+•Intégration des NFT pour valoriser les artistes africains :
+Nous avons pour ambition de créer une plateforme NFT dédiée à l’Afrique francophone, permettant aux artistes (musiciens, peintres, illustrateurs, écrivains…) de tokeniser leurs œuvres, de les vendre à l’international et d’être rémunérés équitablement grâce à un système de paiement sécurisé basé sur Ethereum.
+Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale et une autonomie économique réelle.
+
 
 ## 🧩 Ce que nous faisons
 
@@ -75,9 +78,18 @@ Créer une génération de développeurs, artistes, entrepreneurs et penseurs af
 
 ## 🔗 Liens officiels
 
-- 📧 **Contact mail :** [africaweb3formation@gmail.com](mailto:africaweb3formation@gmail.com)  
-- 🔗 **LinkedIn :** [Richard Kayenga](https://www.linkedin.com/in/richard-kayenga-884a69b8)  
-- 🔗 **X (Twitter) :** [@AfricaWeb3Hub](https://x.com/kingofcongo11)
+WhatsApp Channel : [AfricaWeb3Hub](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)  
+- X (Twitter) : [@kingofcongo11](https://twitter.com/kingofcongo11)  
+- LinkedIn : [Richard Kayenga](https://www.linkedin.com/in/richard-kayenga-884a69b8)  
+- Google Drive : [Documents & Slides](https://drive.google.com/drive/folders/1Txfh4MqodvES3CYhgFQJnRMl5M_BRlxe)  
+- Présentation Slide : [Clique ici](https://docs.google.com/presentation/d/1Pe4A_XbUQuyTeikiRfDRqpLO3ADclTkNcyAdTEhs4tM/edit?usp=drivesdk)
+
+
+
+## 👥 Contact
+
+📧 **Email pro** : africaweb3formation@gmail.com  
+🌐 **Site GitHub** : [web3-initiation-blockchain-training](https://github.com/Prince2993/web3-initiation-blockchain-training)
 
 ## 🤝 Rejoignez-nous !
 
