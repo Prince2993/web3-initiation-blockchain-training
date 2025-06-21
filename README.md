@@ -58,7 +58,7 @@ Notre mission est simple :
 </section>
 
 
-  <h1>📅 Événements à Kinshasa (Octobre)</h1>
+  <h1>📅 Événements à Kinshasa (août)</h1>
   <ul>
     <li><strong>Week-end Web3</strong><br>Atelier initiation à la blockchain + smart contracts – Université de Kinshasa – 12‑13 oct.</li>
     <li><strong>Hackathon Femmes Tech</strong><br>Formation et compétition pour développeuses – 20‑22 oct. (en partenariat avec Eth)</li>
