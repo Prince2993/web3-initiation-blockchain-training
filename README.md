@@ -66,7 +66,7 @@ Notre mission est simple :
   </ul>
 </body>
 </html>
---
+
 
 🤝 Le rôle stratégique du partenariat avec Ethereum (ETH)
 
