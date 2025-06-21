@@ -61,6 +61,7 @@ Notre mission est simple :
 <html lang="fr">
 <head><meta charset="UTF-8"><title>AfricaWeb3Hub – Événements</title></head>
 <body>
+
   <h1>📅 Événements à Kinshasa (Octobre)</h1>
   <ul>
     <li><strong>Week-end Web3</strong><br>Atelier initiation à la blockchain + smart contracts – Université de Kinshasa – 12‑13 oct.</li>
@@ -71,7 +72,7 @@ Notre mission est simple :
 </html>
 --
 
-##🤝 Le rôle stratégique du partenariat avec Ethereum (ETH)
+🤝 Le rôle stratégique du partenariat avec Ethereum (ETH)
 
 Ethereum est aujourd’hui le socle de l’innovation Web3 :
 Smart contracts, Dapps, DAO, NFT, Layer 2... ce sont ces outils que nous voulons enseigner aux Africains.
@@ -95,7 +96,7 @@ lancer des projets pilotes open source made in Africa
   - un réseau de soutien au démarrage de projets DApps</p>
 </section>
 
-##🌐 En résumé
+🌐 En résumé
 
 AfricaWeb3Hub n’est pas juste un projet.
 C’est un mouvement éducatif panafricain pour :
