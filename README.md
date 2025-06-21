@@ -1,83 +1,92 @@
-<!DOCTYPE html><html lang="fr">
+<!DOCTYPE html>
+<html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="AfricaWeb3Hub - Éducation blockchain et Web3 pour l'Afrique francophone">
-  <title>AfricaWeb3Hub</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AfricaWeb3Hub - Présentation</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f0f4f8;
-      margin: 0;
-      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
     }
-    header {
-      background-color: #1a73e8;
-      color: white;
-      padding: 1em;
-      text-align: center;
+    h1, h2 {
+      color: #007bff;
     }
-    nav {
-      background-color: #0f57c3;
-      padding: 0.5em;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 1em;
+    a {
+      color: #0056b3;
       text-decoration: none;
     }
-    main {
-      padding: 2em;
+    a:hover {
+      text-decoration: underline;
     }
-    section {
-      margin-bottom: 2em;
-    }
-    footer {
-      background-color: #1a73e8;
-      color: white;
-      text-align: center;
-      padding: 1em;
+    .section {
+      margin-bottom: 40px;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>AfricaWeb3Hub</h1>
-    <p>Éduquer, Connecter, Transformer l'Afrique francophone grâce au Web3</p>
-  </header>  <nav>
-    <a href="#about">À propos</a>
-    <a href="#projects">Projets</a>
-    <a href="#events">Événements</a>
-    <a href="#contact">Contact</a>
-  </nav>  <main>
-    <section id="about">
-      <h2>À propos de nous</h2>
-      <p>
-        AfricaWeb3Hub est une initiative éducative dédiée à introduire la cryptomonnaie, la blockchain, les DApps, et le Web3 aux jeunes francophones d'Afrique.
-        Nous croyons en un futur où l'Afrique est un acteur majeur de cette révolution numérique.
-      </p>
-    </section><section id="projects">
-  <h2>Nos projets</h2>
-  <ul>
-    <li>Formation gratuite en cryptomonnaie et blockchain sur WhatsApp et LinkedIn</li>
-    <li>Création de NFTs culturels pour promouvoir l'identité africaine</li>
-    <li>Développement d'une plateforme de paiements Web3 sans passer par les banques</li>
-  </ul>
-</section>
 
-<section id="events">
-  <h2>Événements à venir</h2>
-  <p>
-    En août 2025, nous organisons un grand salon Web3 à Kinshasa, réunissant plus de 500 jeunes, développeurs, artistes et éducateurs autour de l'écosystème Ethereum, Solana et Aptos.
-  </p>
-</section>
+  <h1>🌍 AfricaWeb3Hub</h1>
+  <p><strong>Pour une Afrique francophone formée, connectée et active dans l’écosystème Web3</strong></p>
 
-<section id="contact">
-  <h2>Contactez-nous</h2>
-  <p>Email : contact@africaweb3hub.org</p>
-  <p>Twitter : <a href="https://twitter.com/africaweb3hub" target="_blank">@africaweb3hub</a></p>
-  <p>LinkedIn : <a href="https://www.linkedin.com/company/africaweb3hub" target="_blank">AfricaWeb3Hub</a></p>
-</section>
+  <div class="section">
+    <h2>🎯 Notre Vision</h2>
+    <p>Créer une génération panafricaine de développeurs, créateurs et leaders dans le Web3, la blockchain, les NFTs et les contrats intelligents.</p>
+  </div>
 
-  </main>
+  <div class="section">
+    <h2>💡 Pourquoi ce projet ?</h2>
+    <ul>
+      <li>🌐 +120 millions d'habitants en RDC, une jeunesse prête à innover</li>
+      <li>❌ Plus de 10 millions de personnes à l’Est sans accès bancaire</li>
+      <li>🇨🇩 Une diaspora congolaise dynamique</li>
+      <li>🚀 Web3 = alternative technologique et financière</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🧩 Nos Activités</h2>
+    <ul>
+      <li>🎓 Formations : Web3, blockchain, NFT, smart contracts</li>
+      <li>🧠 Pratique avec Ethereum, Solana, Aptos, Avalanche, Cardano</li>
+      <li>💬 Hackathons & conférences en Afrique francophone</li>
+      <li>🖼️ NFT pour valoriser la culture africaine</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🎓 Objectifs 2025</h2>
+    <ul>
+      <li>👩🏽‍💻 Former 100 jeunes francophones</li>
+      <li>🛠️ Lancer une DApp locale utile</li>
+      <li>🧑🏾‍🎨 Soutenir 10 artistes Web3</li>
+      <li>🌍 Organiser 3 hackathons régionaux</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🔗 Nos liens officiels</h2>
+    <ul>
+      <li>📧 Email : <a href="mailto:africaweb3formation@gmail.com">africaweb3formation@gmail.com</a></li>
+      <li>💼 LinkedIn : <a href="https://www.linkedin.com/in/richard-kayenga-884a69b8" target="_blank">Richard Kayenga</a></li>
+      <li>🐦 Twitter (X) : <a href="https://x.com/AfricaWeb3Hub" target="_blank">@AfricaWeb3Hub</a></li>
+      <li>🌐 Site web : <em>à venir</em></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🤝 Rejoignez-nous !</h2>
+    <p>
+      AfricaWeb3Hub est ouvert à tous : développeurs, artistes numériques, formateurs, sponsors.<br>
+      Ensemble, construisons l’écosystème Web3 de demain.  
+    </p>
+    <blockquote><strong>“L’Afrique n’est pas en retard. Elle est en construction.”</strong> 🔧🌍</blockquote>
+  </div>
+
+</body>
+</html>
