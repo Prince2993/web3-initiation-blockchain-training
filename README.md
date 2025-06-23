@@ -61,36 +61,27 @@ Notre mission est simple :
   <h1>📅 Événements à Kinshasa (août)</h1>
   <ul>
     <li><strong>Week-end Web3</strong><br>Atelier initiation à la blockchain + smart contracts – Université de Kinshasa – 12‑13 oct.</li>
-    <li><strong>Hackathon Femmes Tech</strong><br>Formation et compétition pour développeuses – 20‑22 oct. (en partenariat avec Eth)</li>
+    <li><strong>Hackathon Femmes Tech</strong><br>Formation et compétition pour développeuses – 20‑22 oct. (en partenariat avec des geans de la blockchain)</li>
     <li><strong>Conférence AfricaWeb3</strong><br>Présentation publiques de projets DApps – 28 oct.</li>
   </ul>
 </body>
 </html>
 
 
-🤝 Le rôle stratégique du partenariat avec Ethereum (ETH)
+🤝 Notre objectif est simple :
+Faire de Cardano un mot familier dans la bouche de millions d'Africains francophones.
 
-Ethereum est aujourd’hui le socle de l’innovation Web3 :
-Smart contracts, Dapps, DAO, NFT, Layer 2... ce sont ces outils que nous voulons enseigner aux Africains.
+Cardano offre une infrastructure solide, des frais faibles, une efficacité énergétique remarquable, et surtout un engagement profond pour l’éducation et le développement durable, des valeurs qui rejoignent celles d’AfricaWeb3Hub.
 
-Un partenariat avec Ethereum serait une opportunité unique pour :
+Nous appelons aujourd’hui à un appui officiel de la Cardano Foundation, afin de :
 
-faire des formations pratiques dans les universités
+Former des milliers de jeunes, femmes et entrepreneurs en Afrique francophone.
 
-organiser des événements communautaires
+Organiser des ateliers, conférences, hackathons, et projets NFT éducatifs et artistiques.
 
-traduire et adapter les ressources pour la langue française
+Créer un grand Hub technologique à Kinshasa comme base de rayonnement pour l’Afrique francophone.
 
-lancer des projets pilotes open source made in Africa
-
-
-<section id="partner">
-  <h2>🤝 À la recherche de partenaires – Ethereum</h2>
-  <p>Nous souhaitons collaborer avec la fondation Ethereum pour lancer :<br>
-  - un hackathon panafricain Web3<br>
-  - des ateliers ETH avancés<br>
-  - un réseau de soutien au démarrage de projets DApps</p>
-</section>
+Proposer des solutions concrètes pour les zones en crise (comme l’Est de la RDC), en utilisant la blockchain Cardano comme alternative aux systèmes bancaires bloqués.
 
 🌐 En résumé
 
