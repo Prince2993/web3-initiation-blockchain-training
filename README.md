@@ -47,7 +47,7 @@ Notre mission est simple :
 
 - Former **100 jeunes développeurs & artistes**
 - Organiser **3 hackathons panafricains**
-- Créer **une DApp d’utilité publique** pour la RDC
+- Créer **une DApp d’utilité publique** pour la RDC et l'Afrique 
 - Lancer une **collection NFT éducative** sur l’histoire et la culture africaine
 
 
@@ -68,12 +68,7 @@ Notre mission est simple :
 </html>
 
 
-🤝 Notre objectif est simple :
-Faire de Cardano un mot familier dans la bouche de millions d'Africains francophones.
-
-Cardano offre une infrastructure solide, des frais faibles, une efficacité énergétique remarquable, et surtout un engagement profond pour l’éducation et le développement durable, des valeurs qui rejoignent celles d’AfricaWeb3Hub.
-
-Nous appelons aujourd’hui à un appui officiel de la Cardano Foundation, afin de :
+•OBJECTIF 2025
 
 Former des milliers de jeunes, femmes et entrepreneurs en Afrique francophone.
 
@@ -81,7 +76,7 @@ Organiser des ateliers, conférences, hackathons, et projets NFT éducatifs et a
 
 Créer un grand Hub technologique à Kinshasa comme base de rayonnement pour l’Afrique francophone.
 
-Proposer des solutions concrètes pour les zones en crise (comme l’Est de la RDC), en utilisant la blockchain Cardano comme alternative aux systèmes bancaires bloqués.
+Proposer des solutions concrètes pour les zones en crise (comme l’Est de la RDC), en utilisant la blockchain et les écosystèmes comme Eth,Solana Algorand,Aptos,Cardano comme alternative aux systèmes bancaires bloqués.
 
 🌐 En résumé
 
@@ -92,7 +87,7 @@ reconnecter l’Afrique francophone à l’économie numérique globale
 
 créer une culture Web3 positive et responsable
 
-amener Ethereum et la blockchain là où elles sont le plus nécessaires
+amener Ethereum,Solana, et la blockchain là où elles sont le plus nécessaires
 
 
 ## 🔗 Liens officiels
