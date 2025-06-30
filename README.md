@@ -22,6 +22,12 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 - 🔹 **Soutien aux régions fragiles** comme l’Est de la RDC, où des millions de personnes n'ont pas accès aux banques
 
 ---
+Ce Qui Nous Rend Uniques
+
+✅ Pédagogie en langues locales (swahili, français).
+✅ Accès gratuit aux ressources (pas de barrière financière).
+✅ Focus genre : 40% de femmes dans nos programmes.
+✅ Ancrage terrain : Ateliers hors des grandes villes.
 
 ## 🛠️ Technologies abordées
 
@@ -77,6 +83,15 @@ Organiser des ateliers, conférences, hackathons, et projets NFT éducatifs et a
 Créer un grand Hub technologique à Kinshasa comme base de rayonnement pour l’Afrique francophone.
 
 Proposer des solutions concrètes pour les zones en crise (comme l’Est de la RDC), en utilisant la blockchain et les écosystèmes comme Eth,Solana Algorand,Aptos,Cardano comme alternative aux systèmes bancaires bloqués.
+
+Expansion Géographique
+
+Déjà actif : RDC (Kinshasa, Goma, Lubumbashi).
+
+Prochaines cibles : Burundi, Sénégal, Bénin, Cameroun.
+
+Objectif : 10 000 formés d’ici 2026.
+
 
 🌐 En résumé
 
