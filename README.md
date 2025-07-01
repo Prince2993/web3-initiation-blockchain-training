@@ -32,7 +32,7 @@ Ce Qui Nous Rend Uniques
 ## 🛠️ Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (Solidity)
-- ✅ Aptos
+- ✅ SUI NETWORK 
 - ✅ Cardano (ADA)
 - ✅ Avalanche
 - ✅ IPFS, Metamask, NFT, DAO
