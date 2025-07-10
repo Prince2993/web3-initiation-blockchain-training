@@ -33,9 +33,9 @@ Ce Qui Nous Rend Uniques
 
 - ✅ Ethereum & Smart Contracts (Solidity)
 - ✅ SUI NETWORK 
-- ✅ Cardano (ADA)
+- ✅ Solana
 - ✅ Avalanche
-- ✅ IPFS, Metamask, NFT, DAO
+- ✅ IPFS, Metamask, Phantom NFT, DAO
 
 ## 🌍 Pourquoi ce projet ?
 
