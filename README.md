@@ -32,9 +32,7 @@ Ce Qui Nous Rend Uniques
 ## 🛠️ Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (Solidity)
-- ✅ SUI NETWORK 
-- ✅ Solana
-- ✅ Avalanche
+- ✅ Etheteum system de paiement pour le zone occupée du congo
 - ✅ IPFS, Metamask, Phantom NFT, DAO
 
 ## 🌍 Pourquoi ce projet ?
