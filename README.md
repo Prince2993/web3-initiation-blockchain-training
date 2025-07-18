@@ -15,7 +15,7 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 
 ## 🧩 Ce que nous faisons
 
-- 🔹 **Formations Présentielles & en Ligne** sur l'écosystème d'Ethereum, Solana, Aptos, Avalanche, ADA, etc.
+- 🔹 **Formations Présentielles & en Ligne** sur l'écosystème d'Ethereum, Solana,Sui, Ton, ADA, etc.
 - 🔹 **Conférences, Hackathons & Ateliers** avec des artistes, développeurs, et leaders communautaires
 - 🔹 **Création d’outils open source** pour l’éducation Web3
 - 🔹 **Accompagnement de projets Web3 locaux et panafricains**
@@ -33,6 +33,8 @@ Ce Qui Nous Rend Uniques
 
 - ✅ Ethereum & Smart Contracts (Solidity)
 - ✅ Etheteum system de paiement pour le zone occupée du congo
+- ✅ Sui language Move 
+- ✅ Solana , Algorand,
 - ✅ IPFS, Metamask, Phantom NFT, DAO
 
 ## 🌍 Pourquoi ce projet ?
