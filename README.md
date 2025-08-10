@@ -30,11 +30,17 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 ---
 Ce Qui Nous Rend Uniques
 
-✅ Pédagogie en langues locales (swahili, français).
-✅ Accès gratuit aux ressources (pas de barrière financière).
-✅ Focus genre : 40% de femmes dans nos programmes.
-✅ Ancrage terrain : Ateliers hors des grandes villes.
-✅.Paiement crypto dans zones non bancarisées, NFT pour artistes africains.
+1. Formation multilingue : français et swahili pour éliminer la barrière linguistique.
+
+
+2. Inclusion réelle : minimum 40% de participantes femmes.
+
+
+3. Ancrage terrain : ateliers dans les zones rurales et fragiles, pas seulement dans les capitales.
+
+
+4. Use cases locaux : paiement crypto dans zones non bancarisées, NFT pour artistes africains.
+
 
 ## 🛠️ Technologies abordées
 
@@ -43,6 +49,11 @@ Ce Qui Nous Rend Uniques
 - ✅ Sui language Move 
 - ✅ Solana , Algorand,
 - ✅ IPFS, Metamask, Phantom NFT, DAO
+
+**Nouvelles Intégrations :**
+- ⚡ **Lightning Network** (Solutions micro-paiements)
+- 🌐 **Telegram Bots** (Education via app messaging)
+- 🔐 **Zero-Knowledge Proofs** (Protection données sensibles)
 
 ## 🌍 Pourquoi ce projet ?
 
@@ -69,6 +80,15 @@ Notre mission est simple :
   <p>AfricaWeb3Hub lance un programme spécial Swahili pour enseigner la blockchain, les NFT, les DApps et les smart contracts aux femmes dans les villes clés.</p>
   <p>Objectif : <strong>encourager leur leadership</strong> dans le Web3 et offrir des opportunités concrètes.</p>
 </section>
+gantt
+    title Calendrier 2025
+    dateFormat  YYYY-MM
+    section Développement
+    Lancement AfriNFT      :2025-03, 2025-06
+    Intégration LN        :2025-04, 2025-08
+    section Événements
+    ETHCon Kinshasa       :2025-05, 2025-05
+    Hackathon Femmes      :2025-09, 2025-09
 
 
   <h1>📅 Événements à Kinshasa (août)</h1>
