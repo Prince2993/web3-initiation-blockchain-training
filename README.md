@@ -1,10 +1,16 @@
 # 🌍 AfricaWeb3Hub – Accélérateur de talents Web3 pour l’Afrique francophone
 
-Bienvenue dans le référentiel officiel d’AfricaWeb3Hub.  
-Notre mission est de démocratiser l’accès au Web3, à la blockchain, aux NFT et aux technologies décentralisées pour les jeunes de l’Afrique francophone.
+"AfricaWeb3Hub est un accélérateur panafricain qui forme et connecte les talents Web3 en Afrique francophone. Nous outillons les jeunes, les femmes et les artistes pour créer des solutions blockchain adaptées aux réalités locales. Notre objectif : 10 000 personnes formées d’ici 2026 et des projets concrets pour l’inclusion financière."
 
+## 🎯 Mission
+
+Démocratiser l’accès au Web3, à la blockchain et aux NFT pour les jeunes, les femmes et les artistes d’Afrique francophone.
+
+Créer des solutions concrètes pour l’inclusion financière dans les zones fragiles, comme l’Est de la RDC.
 
 ## 🎯 Vision
+
+Devenir d’ici 2027 le hub panafricain de référence en Web3, formant des talents et incubant des projets qui transforment l’économie numérique du continent.
 
 Créer une génération de développeurs, artistes, entrepreneurs et penseurs africains capables de maîtriser et d’innover grâce aux technologies Web3 et blockchain.
 
@@ -15,11 +21,11 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 
 ## 🧩 Ce que nous faisons
 
-- 🔹 **Formations Présentielles & en Ligne** sur l'écosystème d'Ethereum, Solana,Sui, Ton, ADA, etc.
+
 - 🔹 **Conférences, Hackathons & Ateliers** avec des artistes, développeurs, et leaders communautaires
 - 🔹 **Création d’outils open source** pour l’éducation Web3
 - 🔹 **Accompagnement de projets Web3 locaux et panafricains**
-- 🔹 **Soutien aux régions fragiles** comme l’Est de la RDC, où des millions de personnes n'ont pas accès aux banques
+
 
 ---
 Ce Qui Nous Rend Uniques
@@ -28,6 +34,7 @@ Ce Qui Nous Rend Uniques
 ✅ Accès gratuit aux ressources (pas de barrière financière).
 ✅ Focus genre : 40% de femmes dans nos programmes.
 ✅ Ancrage terrain : Ateliers hors des grandes villes.
+✅.Paiement crypto dans zones non bancarisées, NFT pour artistes africains.
 
 ## 🛠️ Technologies abordées
 
@@ -91,6 +98,14 @@ Déjà actif : RDC (Kinshasa, Goma, Lubumbashi).
 Prochaines cibles : Burundi, Sénégal, Bénin, Cameroun.
 
 Objectif : 10 000 formés d’ici 2026.
+
+🌐 Pourquoi devenir partenaire
+
+Visibilité dans 5 pays d’Afrique francophone.
+
+Accès à un vivier de talents Web3 formés et certifiés.
+
+Impact social direct : inclusion financière, autonomisation des femmes, création d’emplois numériques.
 
 
 🌐 En résumé
