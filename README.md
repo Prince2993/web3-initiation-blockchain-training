@@ -58,4 +58,4 @@ gantt
     Intégration LN        :2025-04, 2025-08
     section Événements
     ETHCon Kinshasa       :2025-05, 2025-05
-    Hackathon Femmes      :2025-09, 2025-09
+    Hackathon Femmes      :2025-09, 2025-09 
