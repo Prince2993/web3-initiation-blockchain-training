@@ -45,9 +45,9 @@ Ce Qui Nous Rend Uniques
 ## 🛠️ Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (Solidity)
-- ✅ Etheteum system de paiement pour le zone occupée du congo
-- ✅ Sui language Move 
-- ✅ Solana , Algorand,
+- ✅ Aptos  system de paiement pour le zone occupée du congo
+- ✅ Aptos language Move 
+- ✅ Solana , Algorand,Sui
 - ✅ IPFS, Metamask, Phantom NFT, DAO
 
 **Nouvelles Intégrations :**
