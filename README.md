@@ -55,9 +55,9 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 -  **Telegram Bots** (Education via app messaging)
 -  **Zero-Knowledge Proofs** (Protection données sensibles)
 
-## 🌍 Pourquoi ce projet ?
+##  Pourquoi ce projet ?
 
-- 🌐 En 2025, plus de 90% des Africains francophones n'ont toujours pas accès à une éducation de qualité sur la blockchain, le Web3 et les cryptomonnaies. Malheureusement, la plupart découvrent ces technologies à travers des arnaques et systèmes frauduleux, créant une perception négative, surtout dans les zones non anglophones.
+-  En 2025, plus de 90% des Africains francophones n'ont toujours pas accès à une éducation de qualité sur la blockchain, le Web3 et les cryptomonnaies. Malheureusement, la plupart découvrent ces technologies à travers des arnaques et systèmes frauduleux, créant une perception négative, surtout dans les zones non anglophones.
 
 AfricaWeb3Hub est né de cette urgence.
 
@@ -91,17 +91,8 @@ gantt
     Hackathon Femmes      :2025-09, 2025-09
 
 
-  <h1>📅 Événements à Kinshasa (août)</h1>
-  <ul>
-    <li><strong>Week-end Web3</strong><br>Atelier initiation à la blockchain + smart contracts – Université de Kinshasa – 12‑13 oct.</li>
-    <li><strong>Hackathon Femmes Tech</strong><br>Formation et compétition pour développeuses – 20‑22 oct. (en partenariat avec des geans de la blockchain)</li>
-    <li><strong>Conférence AfricaWeb3</strong><br>Présentation publiques de projets DApps – 28 oct.</li>
-  </ul>
-</body>
-</html>
 
-
-•OBJECTIF 2025
+•OBJECTIF 2025-2026
 
 Former des milliers de jeunes, femmes et entrepreneurs en Afrique francophone.
 
