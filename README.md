@@ -1,14 +1,14 @@
-# 🌍 AfricaWeb3Hub – Accélérateur de talents Web3 pour l’Afrique francophone
+# AfricaWeb3Hub – Accélérateur de talents Web3 pour l’Afrique francophone
 
 "AfricaWeb3Hub est un accélérateur panafricain qui forme et connecte les talents Web3 en Afrique francophone. Nous outillons les jeunes, les femmes et les artistes pour créer des solutions blockchain adaptées aux réalités locales. Notre objectif : 10 000 personnes formées d’ici 2026 et des projets concrets pour l’inclusion financière."
 
-## 🎯 Mission
+##  Mission
 
 Démocratiser l’accès au Web3, à la blockchain et aux NFT pour les jeunes, les femmes et les artistes d’Afrique francophone.
 
 Créer des solutions concrètes pour l’inclusion financière dans les zones fragiles, comme l’Est de la RDC.
 
-## 🎯 Vision
+##  Vision
 
 Devenir d’ici 2027 le hub panafricain de référence en Web3, formant des talents et incubant des projets qui transforment l’économie numérique du continent.
 
@@ -19,7 +19,7 @@ Nous avons pour ambition de créer une plateforme NFT dédiée à l’Afrique fr
 Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale et une autonomie économique réelle.
 
 
-## 🧩 Ce que nous faisons
+##  Ce que nous faisons
 
 
 - 🔹 **Conférences, Hackathons & Ateliers** avec des artistes, développeurs, et leaders communautaires
@@ -27,8 +27,7 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 - 🔹 **Accompagnement de projets Web3 locaux et panafricains**
 
 
----
-Ce Qui Nous Rend Uniques
+## Ce Qui Nous Rend Uniques
 
 1. Formation multilingue : français et swahili pour éliminer la barrière linguistique.
 
@@ -42,18 +41,19 @@ Ce Qui Nous Rend Uniques
 4. Use cases locaux : paiement crypto dans zones non bancarisées, NFT pour artistes africains.
 
 
-## 🛠️ Technologies abordées
+##  Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (Solidity)
-- ✅ Aptos  system de paiement pour le zone occupée du congo
-- ✅ Aptos language Move 
-- ✅ Solana , Algorand,Sui
+- ✅ Solana,Solana pay pour le paiement dans les zones occupé par les rebelles 
+- ✅ Aptos,Sui language Move 
+- ✅ Algorand, Avalanche,Ton 
 - ✅ IPFS, Metamask, Phantom NFT, DAO
+- ✅ Bitcoin technologie Lightning network (pour le paiement dans les zones rurales)
 
 **Nouvelles Intégrations :**
-- ⚡ **Lightning Network** (Solutions micro-paiements)
-- 🌐 **Telegram Bots** (Education via app messaging)
-- 🔐 **Zero-Knowledge Proofs** (Protection données sensibles)
+-  **Lightning Network** (Solutions micro-paiements)
+-  **Telegram Bots** (Education via app messaging)
+-  **Zero-Knowledge Proofs** (Protection données sensibles)
 
 ## 🌍 Pourquoi ce projet ?
 
@@ -119,7 +119,7 @@ Prochaines cibles : Burundi, Sénégal, Bénin, Cameroun.
 
 Objectif : 10 000 formés d’ici 2026.
 
-🌐 Pourquoi devenir partenaire
+## Pourquoi devenir partenaire
 
 Visibilité dans 5 pays d’Afrique francophone.
 
@@ -139,8 +139,16 @@ créer une culture Web3 positive et responsable
 
 amener Ethereum,Solana, et la blockchain là où elles sont le plus nécessaires
 
+## 🤝 Rejoins la Révolution Web3 Africaine
 
-## 🔗 Liens officiels
+Nous cherchons des :
+- Développeurs Solidity/Smart Contracts
+- Designers UX/UI pour DApps
+- Traducteurs (fr, sw, ln)
+- Ambassadeurs régionaux
+
+📩 Contacte-nous : africaweb3formation@gmail.com
+##  Liens officiels
 
 WhatsApp Channel : [AfricaWeb3Hub](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)  
 - X (Twitter) : [@kingofcongo11](https://twitter.com/kingofcongo11)  
@@ -154,7 +162,7 @@ WhatsApp Channel : [AfricaWeb3Hub](https://whatsapp.com/channel/0029VbAlF1b4NVif
 
 📧 **Email pro** : africaweb3formation@gmail.com  
 🌐 **Site GitHub** : [web3-initiation-blockchain-training](https://github.com/Prince2993/web3-initiation-blockchain-training)
-
+Discord (https://discord.gg/79VP8u4P)
 ## 🤝 Rejoignez-nous !
 
 Nous cherchons des partenaires, mentors, développeurs, sponsors et ambassadeurs pour bâtir ensemble **le Web3 made in Africa**.
