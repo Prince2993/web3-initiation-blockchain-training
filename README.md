@@ -78,19 +78,7 @@ Notre mission est simple :
 <section id="women">
   <h2>🎓 Formation des femmes au Web3</h2>
   <p>AfricaWeb3Hub lance un programme spécial Swahili pour enseigner la blockchain, les NFT, les DApps et les smart contracts aux femmes dans les villes clés.</p>
-  <p>Objectif : <strong>encourager leur leadership</strong> dans le Web3 et offrir des opportunités concrètes.</p>
-</section>
-gantt
-    title Calendrier 2025
-    dateFormat  YYYY-MM
-    section Développement
-    Lancement AfriNFT      :2025-03, 2025-06
-    Intégration LN        :2025-04, 2025-08
-    section Événements
-    ETHCon Kinshasa       :2025-05, 2025-05
-    Hackathon Femmes      :2025-09, 2025-09
-
-
+ 
 
 •OBJECTIF 2025-2026
 
