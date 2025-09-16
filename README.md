@@ -50,6 +50,20 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 - ✅ IPFS, Metamask, Phantom NFT, DAO
 - ✅ Bitcoin technologie Lightning network (pour le paiement dans les zones rurales)
 
+##  Hedera Hashgraph & Tokenisation
+
+Chez AfricaWeb3Hub, nous explorons aussi Hedera Hashgraph pour ses performances rapides, durables et accessibles.
+
+La tokenisation — transformer des actifs réels (terre, ressources, énergie, finances…) en jetons numériques — est essentielle pour l’Afrique francophone :
+
+✅ Transparence et lutte contre la corruption
+
+✅ Accès facilité au capital pour les entrepreneurs
+
+✅ Inclusion financière même dans les zones fragiles
+
+✅ Connexion des actifs africains aux investisseurs mondiaux
+
 **Nouvelles Intégrations :**
 -  **Lightning Network** (Solutions micro-paiements)
 -  **Telegram Bots** (Education via app messaging)
