@@ -1,6 +1,6 @@
 # AfricaWeb3Hub – Accélérateur de talents Web3 pour l’Afrique francophone
 
-"AfricaWeb3Hub est un accélérateur panafricain qui forme et connecte les talents Web3 en Afrique francophone. Nous outillons les jeunes, les femmes et les artistes pour créer des solutions blockchain adaptées aux réalités locales. Notre objectif : 10 000 personnes formées d’ici 2026 et des projets concrets pour l’inclusion financière."
+ AfricaWeb3Hub est un accélérateur panafricain qui forme et connecte les talents Web3 en Afrique francophone. Nous outillons les jeunes, les femmes et les artistes pour créer des solutions blockchain adaptées aux réalités locales. Notre objectif : 10 000 personnes formées d’ici 2026 et des projets concrets pour l’inclusion financière."
 
 ##  Mission
 
@@ -139,6 +139,13 @@ Nous cherchons des :
 - Designers UX/UI pour DApps
 - Traducteurs (fr, sw, ln)
 - Ambassadeurs régionaux
+
+pie  
+    title Pourquoi AfricaWeb3Hub Mérite un Soutien  
+    "Formations en zones de guerre" : 35  
+    "Focus femmes/rural" : 25  
+    "Modèle open-source reproductible" : 20  
+    "Impact économique direct" : 20  
 
 📩 Contacte-nous : africaweb3formation@gmail.com
 ##  Liens officiels
