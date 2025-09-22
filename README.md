@@ -140,13 +140,6 @@ Nous cherchons des :
 - Traducteurs (fr, sw, ln)
 - Ambassadeurs régionaux
 
-pie  
-    title Pourquoi AfricaWeb3Hub Mérite un Soutien  
-    "Formations en zones de guerre" : 35  
-    "Focus femmes/rural" : 25  
-    "Modèle open-source reproductible" : 20  
-    "Impact économique direct" : 20  
-
 📩 Contacte-nous : africaweb3formation@gmail.com
 ##  Liens officiels
 
