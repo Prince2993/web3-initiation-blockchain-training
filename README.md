@@ -144,8 +144,8 @@ Nous cherchons des :
 ##  Liens officiels
 
 WhatsApp Channel : [AfricaWeb3Hub](https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b)  
-- X (Twitter) : [@kingofcongo11](https://twitter.com/kingofcongo11)  
-- LinkedIn : [Richard Kayenga](https://www.linkedin.com/in/richard-kayenga-884a69b8)  
+- X (Twitter) : [@kingofcongo11](https://twitter.com/africaweb3hub)  
+- LinkedIn : [https://www.linkedin.com/in/prince-kayenga-884a69b8)  
 - Google Drive : [Documents & Slides](https://drive.google.com/drive/folders/1Txfh4MqodvES3CYhgFQJnRMl5M_BRlxe)  
 - Présentation Slide : [Clique ici](https://docs.google.com/presentation/d/1Pe4A_XbUQuyTeikiRfDRqpLO3ADclTkNcyAdTEhs4tM/edit?usp=drivesdk)
 
