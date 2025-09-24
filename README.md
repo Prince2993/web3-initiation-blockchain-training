@@ -43,7 +43,7 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 
 ##  Technologies abordées
 
-- ✅ Ethereum & Smart Contracts (Solidity)
+- ✅ Ethereum & Smart Contracts (www.Ethereum.org)
 - ✅ Solana,Solana pay pour le paiement dans les zones occupé par les rebelles 
 - ✅ Aptos,Sui language Move 
 - ✅ Algorand, Avalanche,Ton 
@@ -56,13 +56,40 @@ Chez AfricaWeb3Hub, nous explorons aussi Hedera Hashgraph pour ses performances 
 
 La tokenisation — transformer des actifs réels (terre, ressources, énergie, finances…) en jetons numériques — est essentielle pour l’Afrique francophone :
 
-✅ Transparence et lutte contre la corruption
+## Chainlink 
 
-✅ Accès facilité au capital pour les entrepreneurs
+Oracle Education for Francophone Africa
+About This Integration
 
-✅ Inclusion financière même dans les zones fragiles
+AfricaWeb3Hub now incorporates Chainlink's decentralized oracle network into our educational curriculum, providing students with hands-on experience in building secure, production-ready smart contracts.
 
-✅ Connexion des actifs africains aux investisseurs mondiaux
+  Chainlink Services Covered
+
+·  Price Feeds: Real-world asset pricing for DeFi applications
+·  VRF (Verifiable Random Function): Secure randomness for NFTs and gaming
+·  Automation: Smart contract automation and maintenance
+·  CCIP: Cross-chain interoperability protocols
+
+ Educational Objectives
+
+· Teach secure oracle usage patterns
+· Demonstrate real-world data integration
+· Build hybrid smart contracts with external data
+· Prepare developers for enterprise-grade dApp development
+
+ Learning Modules
+
+1. Introduction to Oracles
+   · Why oracles matter in Web3
+   · Chainlink architecture overview
+2. Hands-on Labs
+   · Integrating Price Feeds in DeFi protocols
+   · Using VRF for fair NFT minting
+   · Automating contract executions
+3. African Use Cases
+   · Agricultural data oracles for crop insurance
+   · Cross-border payment verification
+   · Supply chain transparency solutions
 
 **Nouvelles Intégrations :**
 -  **Lightning Network** (Solutions micro-paiements)
