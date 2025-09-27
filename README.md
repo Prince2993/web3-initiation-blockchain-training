@@ -58,6 +58,8 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 Chez AfricaWeb3Hub, nous explorons aussi Hedera Hashgraph pour ses performances rapides, durables et accessibles.
 
 La tokenisation — transformer des actifs réels (terre, ressources, énergie, finances…) en jetons numériques — est essentielle pour l’Afrique francophone :
+(Hedera Developer Documentation �
+Hedera Help)
 
 ## Chainlink 
 
