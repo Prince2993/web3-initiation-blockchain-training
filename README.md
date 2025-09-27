@@ -93,11 +93,13 @@ AfricaWeb3Hub now incorporates Chainlink's decentralized oracle network into our
    · Agricultural data oracles for crop insurance
    · Cross-border payment verification
    · Supply chain transparency solutions
+   (https://docs.chain.link/)
 
 **Nouvelles Intégrations :**
 -  **Lightning Network** (Solutions micro-paiements)
 -  **Telegram Bots** (Education via app messaging)
 -  **Zero-Knowledge Proofs** (Protection données sensibles)
+(https://lightning.network/docs/)
 
 ##  Pourquoi ce projet ?
 
