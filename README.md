@@ -44,9 +44,12 @@ Ce projet vise à offrir aux créateurs africains une nouvelle vitrine mondiale 
 ##  Technologies abordées
 
 - ✅ Ethereum & Smart Contracts (www.Ethereum.org)
-- ✅ Solana,Solana pay pour le paiement dans les zones occupé par les rebelles 
-- ✅ Aptos,Sui language Move 
-- ✅ Algorand, Avalanche,Ton 
+- ✅ Solana,
+ (https://solana.com/docs )
+- ✅ Aptos,Sui language Move  (https://aptos.dev/build/smart-contracts/book)
+- ✅ Algorand, 
+(https://developer.algorand.org/docs/)
+- ✅ Avalanche,Ton 
 - ✅ IPFS, Metamask, Phantom NFT, DAO
 - ✅ Bitcoin technologie Lightning network (pour le paiement dans les zones rurales)
 
